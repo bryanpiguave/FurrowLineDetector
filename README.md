@@ -1,1 +1,4 @@
 # FurrowLineDetector
+
+# Author 
+Bryan Piguave 
